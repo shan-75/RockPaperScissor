@@ -7,5 +7,7 @@ of three shapes with an outstretched hand. These shapes are
 extended, forming a V). 
 Rules of the game:
 Throw a move forming the above mentioned shapes.
-Rock will lose against paper because paper can wrap the rock and rock will win against scissor because rock can crush the scissor.
+if same shapes are thrown the game will tie and immediately throw a new move.
+Rock will lose against paper because paper can wrap the rock. 
+Rock will win against scissor because rock can crush the scissor.
 Paper will lose against scissor because scissor can cut the paper into pieces.
